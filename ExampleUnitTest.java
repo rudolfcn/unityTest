@@ -15,5 +15,6 @@ public class ExampleUnitTest {
         assertEquals(4, 2 + 2);
 	System.out.println(“test unity”);
 	System.out.println(“test unity2”);
+	test.......
     }
 }
