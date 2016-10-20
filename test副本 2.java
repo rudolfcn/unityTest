@@ -15,6 +15,5 @@ public class ExampleUnitTest {
         assertEquals(4, 2 + 2);
 	System.out.println(“test add a file.”);
        得到的点点滴滴
-	fffff
     }
 }
